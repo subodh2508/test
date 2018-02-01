@@ -1,0 +1,808 @@
+{
+    "formList": [
+      {
+        "id": 1,
+        "isActive": false,
+        "formTitle": {
+          "value": "Form 14",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 3",
+            "es": "test",
+            "fr": "tesfddf"
+          },
+          "error": ""
+        },
+        "description": {
+          "value": "Description test 1",
+          "localizedValues": {
+            "de": "sad sd asdffasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsd dsadfas ddf"
+          }
+        },
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "abcd test field 4"
+            },
+            "category": {
+              "value": "Identity",
+              "error": ""
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 46,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          },
+          {
+            "fieldLabel": {
+              "value": "noms field 3"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 61,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "isActive": true,
+        "formTitle": {
+          "value": "3Form 3",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 3",
+            "es": "test",
+            "fr": "tesfddf"
+          },
+          "error": ""
+        },
+        "description": {
+          "value": "Description test 3",
+          "localizedValues": {
+            "de": "sad sd asdffasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsd dsadfas ddf"
+          }
+        },
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 30
+          },
+          {
+            "fieldLabel": {
+              "value": "noms field 3"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 61,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "isActive": true,
+        "formTitle": {
+          "value": "Form 4",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 4",
+            "es": "test",
+            "fr": "tesfddf"
+          }
+        },
+        "description": {
+          "value": "Description test 4",
+          "localizedValues": {
+            "de": "sad sd fasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsdddf"
+          }
+        },
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 30
+          },
+          {
+            "fieldLabel": {
+              "value": "noms field 3"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 61,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          }
+        ]
+      },
+      {
+        "formTitle": {
+          "value": "Form 5",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 5",
+            "es": "test",
+            "fr": "tesfddf"
+          }
+        },
+        "description": {
+          "value": "Description test 5",
+          "localizedValues": {
+            "de": "sad sd fasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsdddf"
+          }
+        },
+        "isActive": false,
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 30
+          },
+          {
+            "fieldLabel": {
+              "value": "test field 2"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 100,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          }
+        ],
+        "id": 5
+      },
+      {
+        "id": 6,
+        "isActive": false,
+        "formTitle": {
+          "value": "Form 6",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 6",
+            "es": "test",
+            "fr": "tesfddf"
+          }
+        },
+        "description": {
+          "value": "Description test 6",
+          "localizedValues": {
+            "de": "sad sd fasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsdddf"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "isActive": false,
+        "formTitle": {
+          "value": "Form 7",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 7",
+            "es": "test",
+            "fr": "tesfddf"
+          }
+        },
+        "description": {
+          "value": "Description test 7",
+          "localizedValues": {
+            "de": "sad sd fasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsdddf"
+          }
+        }
+      },
+      {
+        "id": 8,
+        "isActive": true,
+        "formTitle": {
+          "value": "Form 8",
+          "localizedValues": {
+            "de": "sadf",
+            "en": "Form 8",
+            "es": "test",
+            "fr": "tesfddf"
+          }
+        },
+        "description": {
+          "value": "Description test 8",
+          "localizedValues": {
+            "de": "sad sd fasd ff",
+            "en": "Description test",
+            "es": "sadf",
+            "fr": "tesfasdfasdf afsdddf"
+          }
+        }
+      },
+      {
+        "formTitle": {
+          "value": "my form",
+          "error": "",
+          "localizedValues": {}
+        },
+        "description": {
+          "value": "my description",
+          "error": "",
+          "localizedValues": {}
+        },
+        "isActive": true,
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 55
+          },
+          {
+            "fieldLabel": {
+              "value": "test field 2"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 28,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          },
+          {
+            "fieldLabel": {
+              "value": "noms field 3"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "fieldType": {
+              "value": "Numeric"
+            },
+            "default": 0,
+            "id": 61,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          }
+        ],
+        "id": 9
+      },
+      {
+        "formTitle": {
+          "value": "asdfasdf",
+          "error": "",
+          "localizedValues": {}
+        },
+        "description": {
+          "value": "asdfsadf",
+          "error": "",
+          "localizedValues": {}
+        },
+        "isActive": false,
+        "fields": [
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 74
+          },
+          {
+            "id": 92,
+            "fieldLabel": {
+              "value": "field 5"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "For Future usage",
+              "error": ""
+            },
+            "fieldType": {
+              "value": "Location/Address",
+              "data": [],
+              "error": ""
+            },
+            "default": 0,
+            "active": true,
+            "listOf": true,
+            "readOnly": true
+          },
+          {
+            "fieldLabel": {
+              "value": "test field 1"
+            },
+            "category": {
+              "value": "Compensation"
+            },
+            "sensitivity": {
+              "value": "Not sensitive but editable only by Admin"
+            },
+            "default": 1,
+            "id": 89
+          }
+        ],
+        "id": 10
+      }
+    ],
+    "assignmentList": [
+      {
+        "id": 2,
+        "isActive": false,
+        "assignmentTitle": {
+          "value": "Assignment 23",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Assignment 2",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          },
+          "error": ""
+        },
+        "description": {
+          "value": "Descriptionccsd",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Description",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          },
+          "error": ""
+        },
+        "targetForm": "6",
+        "targetPopulation": "individual",
+        "formFrequency": "inquiry",
+        "formFrequencyDate": "2018-01-21T18:30:00.000Z",
+        "individualTargetUserList": [
+          {
+            "id": 1,
+            "label": "Mary",
+            "value": "mary"
+          },
+          {
+            "id": 2,
+            "label": "Keith",
+            "value": "Keith"
+          }
+        ],
+        "allowMassEdit": true,
+        "allowEditMode": true,
+        "workflowParallel": true,
+        "workFlowRoles": [
+          "HR",
+          "Manager"
+        ]
+      },
+      {
+        "id": 3,
+        "isActive": false,
+        "assignmentTitle": {
+          "value": "Assignment 3",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Assignment 3",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "description": {
+          "value": "Description",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Description",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "targetForm": 3,
+        "formFrequency": "",
+        "formFrequencyDate": "",
+        "targetPopulation": "",
+        "individualTargetUserList": [],
+        "allowMassEdit": false,
+        "allowEditMode": false,
+        "workflowParallel": false,
+        "workFlowRoles": []
+      },
+      {
+        "id": 4,
+        "isActive": true,
+        "assignmentTitle": {
+          "value": "Assignment 4",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Assignment 4",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "description": {
+          "value": "Description",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Description",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "targetForm": 4,
+        "targetPopulation": "",
+        "formFrequency": "",
+        "formFrequencyDate": "",
+        "individualTargetUserList": [],
+        "allowMassEdit": false,
+        "allowEditMode": false,
+        "workflowParallel": false,
+        "workFlowRoles": []
+      },
+      {
+        "id": 5,
+        "isActive": false,
+        "assignmentTitle": {
+          "value": "Assignment 5",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Assignment 5",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "description": {
+          "value": "Description",
+          "localizedValues": {
+            "de": "Lorem ipsum",
+            "en": "Description",
+            "es": "Lorem ipsum",
+            "fr": "Lorem ipsum"
+          }
+        },
+        "targetForm": 5,
+        "targetPopulation": "",
+        "formFrequency": "",
+        "formFrequencyDate": "",
+        "individualTargetUserList": [],
+        "allowMassEdit": false,
+        "allowEditMode": false,
+        "workflowParallel": false,
+        "workFlowRoles": []
+      }
+    ],
+    "userList": [
+      {
+        "id": 1,
+        "label": "Mary",
+        "value": "mary"
+      },
+      {
+        "id": 2,
+        "label": "Keith",
+        "value": "Keith"
+      },
+      {
+        "id": 3,
+        "label": "Adam",
+        "value": "Adam"
+      }
+    ],
+    "categoriesList": [
+      "Compensation",
+      "Identity",
+      "Performance",
+      "Employment",
+      "Family"
+    ],
+    "fieldSensitivityList": [
+      {
+        "sensitivity": "1",
+        "label": "Not sensitive can be shared no edition restriction"
+      },
+      {
+        "sensitivity": "2",
+        "label": "Not sensitive but editable only by Admin"
+      },
+      {
+        "sensitivity": "3",
+        "label": "Sensitive => Encryption no edition restriction"
+      },
+      {
+        "sensitivity": "4",
+        "label": "Sensitive => Encryption and only editable by Admin"
+      },
+      {
+        "sensitivity": "5",
+        "label": "For Future usage"
+      }
+    ],
+    "fieldTypeList": [
+      "Numeric",
+      "Formula",
+      "Currency",
+      "Short Text",
+      "Scrolling Text",
+      "Boolean",
+      "Date",
+      "Email",
+      "Dropdown",
+      "Radio Button",
+      "Multiple Checkbox",
+      "Hierarchy",
+      "Location/Address",
+      "Numeric Scale",
+      "Composite Type"
+    ],
+    "fieldListing": [
+      {
+        "fieldLabel": {
+          "value": "test field 1"
+        },
+        "category": {
+          "value": "Compensation"
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "default": 1,
+        "id": 1
+      },
+      {
+        "fieldLabel": {
+          "value": "abcd test field 4"
+        },
+        "category": {
+          "value": "Identity",
+          "error": ""
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "fieldType": {
+          "value": "Numeric"
+        },
+        "default": 0,
+        "id": 4,
+        "active": true,
+        "listOf": true,
+        "readOnly": true
+      },
+      {
+        "id": 5,
+        "fieldLabel": {
+          "value": "field 5"
+        },
+        "category": {
+          "value": "Compensation"
+        },
+        "sensitivity": {
+          "value": "For Future usage",
+          "error": ""
+        },
+        "fieldType": {
+          "value": "Location/Address",
+          "data": [],
+          "error": ""
+        },
+        "default": 0,
+        "active": true,
+        "listOf": true,
+        "readOnly": true,
+        "supress": false
+      },
+      {
+        "id": 7,
+        "fieldLabel": {
+          "value": "test field 7"
+        },
+        "category": {
+          "value": "Compensation"
+        },
+        "sensitivity": {
+          "value": "For Future usage",
+          "error": ""
+        },
+        "fieldType": {
+          "value": "Location/Address",
+          "data": [],
+          "error": ""
+        },
+        "default": 0,
+        "active": true,
+        "listOf": true,
+        "readOnly": true,
+        "supress": false
+      },
+      {
+        "fieldLabel": {
+          "value": "test field 8"
+        },
+        "category": {
+          "value": "identity"
+        },
+        "fieldType": {
+          "value": "Numeric"
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "default": 1,
+        "id": 8,
+        "active": true,
+        "listOf": true,
+        "readOnly": true
+      },
+      {
+        "fieldLabel": {
+          "value": "test field 9"
+        },
+        "category": {
+          "value": "Identity",
+          "error": ""
+        },
+        "fieldType": {
+          "value": "Dropdown",
+          "data": [
+            {
+              "id": 0,
+              "value": "True"
+            },
+            {
+              "id": 1,
+              "value": "false"
+            }
+          ]
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "default": 0,
+        "id": 9,
+        "active": true,
+        "listOf": true,
+        "readOnly": true
+      },
+      {
+        "fieldLabel": {
+          "value": "test field 10"
+        },
+        "category": {
+          "value": "Compensation"
+        },
+        "fieldType": {
+          "value": "Numeric"
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "default": 0,
+        "id": 10,
+        "active": true,
+        "listOf": true,
+        "readOnly": true
+      },
+      {
+        "fieldLabel": {
+          "value": "test field 11"
+        },
+        "category": {
+          "value": "Compensation",
+          "error": ""
+        },
+        "fieldType": {
+          "value": "Numeric"
+        },
+        "sensitivity": {
+          "value": "Not sensitive but editable only by Admin"
+        },
+        "default": 0,
+        "id": 11,
+        "active": true,
+        "listOf": true,
+        "readOnly": true
+      }
+    ]
+  }
